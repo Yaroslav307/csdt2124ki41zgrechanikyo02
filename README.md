@@ -1,2 +1,2 @@
-# csdt2124ki41zgrechanikyo02
-csdt2124ki41zgrechanikyo02
+# Гра Морський бій - Проект студента №02
+
